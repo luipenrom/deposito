@@ -12,6 +12,10 @@
  * @version 1.0
  *
  */
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
 public class DepositoCombustible {
 
     private double depMax;
