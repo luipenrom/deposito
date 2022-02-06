@@ -1,8 +1,8 @@
 /**
  * Main class of the Java program. 
  * 
- * @author IES Severo Ochoa team
- * @since 2018-01
+ * @author IES Severo Ochoa team - modificado por LuisPe
+ * @since 2018-01 - modificado a 20220206
  * 
  */
 public class Main {
